@@ -12,3 +12,6 @@ generate xxx.csv
 ```shell
 bean-extract importer.py xxx.csv
 ```
+## References
+[USTC login logic](https://github.com/txtxj/USTC-JWC-Login)     
+[Card Importer](https://github.com/dyweb/beancount-sjtu)
